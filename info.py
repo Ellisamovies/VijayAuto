@@ -91,7 +91,7 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', 'fileclone12') # Public
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+ipiam4tiR4E0ZTE1')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Ellisa_movies_hub')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'ellisa_support_group') # Support Chat Link Without https:// or @
-OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/ellisa_support')
+OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/Vijayofficial77')
 
 # True Or False
 AI_SPELL_CHECK = bool(environ.get('AI_SPELL_CHECK', False))
